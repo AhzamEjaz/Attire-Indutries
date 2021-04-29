@@ -10,7 +10,7 @@ img{
     width:20rem;
 }
 .logo{
-    width: 13rem;
+    width: 10rem;
     display: block;
     margin: 2rem auto;
     margin-top: 2rem;
@@ -60,7 +60,7 @@ nav{
     text-align: center;
 }
 .catagories{
-    width: 70%;
+    width: 80%;
     margin: 0 auto;
 }
 .catagory .heading-cat{

@@ -15,6 +15,15 @@ img{
     margin: 2rem auto;
     margin-top: 2rem;
 }
+.logo-text{
+    font-family: 'Major Mono Display', monospace;
+    font-size: 2rem;
+    text-align: center;
+    display: block;
+    margin: 2rem auto;
+    margin-top: 2rem;
+    font-weight: 700;
+}
 nav{
     display: flex;
     justify-content: center;
@@ -93,6 +102,8 @@ margin: 1rem auto;
 .contact-links{
     border-top: 1px solid black;
     padding: 3rem 0;
+    text-align: center;
+
 }
 .email,.phone{
     margin: .5rem 0;

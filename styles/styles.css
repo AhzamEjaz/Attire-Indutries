@@ -121,3 +121,24 @@ margin: 1rem auto;
     border-top: 1px solid black;
     margin: 2rem 0;
 }
+
+.about-company{
+    width: 70%;
+    margin: 2rem auto;
+}
+.about-company h2{
+    font-family: 'Oswald', sans-serif;
+    margin-bottom: 2rem;
+}
+
+.about-company p{
+    line-height: 1.2rem;
+    
+}
+.about-company img{
+    display: block;
+    width: 100%;
+    margin: 2rem 0 ;
+}
+
+

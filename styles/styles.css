@@ -210,7 +210,9 @@ margin: 1rem auto;
     clear: both;
     display: block;
 }
-
+.copywrites{
+    margin: 0 auto;
+}
 @media (max-width : 600px) {
     .product-details{
         flex-flow: column nowrap;
